@@ -1,8 +1,8 @@
 ﻿# Paramètres GLPI
-$glpi_url = "http://192.168.80.151/glpi/apirest.php"
-$app_token = "OskXTBNboqib2x1jM9tpSzf2DkRH5LST6JOZ1ZcI"
-$user_token = "MkahiFOCZ6AHXmC9lMPySXZNayFfmCnuMpGOgoGW"
-$exportPath = "C:\\CompteRendu\\tickets_glpi.csv"
+$glpi_url = "http://X.X.X.X/glpi/apirest.php"
+$app_token = "YOUR_APP_TOKEN"
+$user_token = "YOUR_USER_TOKEN"
+$exportPath = "C:\\TON_CHEMIN\\NOM_DU_FICHIER.csv"
 
 # Dictionnaire Statut
 $statuts = @{
