@@ -1,4 +1,4 @@
-# Paramètres GLPI
+﻿# Paramètres GLPI
 $glpi_url = "http://192.168.80.151/glpi/apirest.php"
 $app_token = "OskXTBNboqib2x1jM9tpSzf2DkRH5LST6JOZ1ZcI"
 $user_token = "MkahiFOCZ6AHXmC9lMPySXZNayFfmCnuMpGOgoGW"
